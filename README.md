@@ -85,14 +85,14 @@ Las dependencias se encuentran en `requirements.txt`.
 
 Para instalarlas:
 
-```bash
+bash
 pip install -r requirements.txt
 
 ---
 
 ## Estructura del proyecto
 
-```text
+text
 Proyecto-Mineria-Datos/
 │
 ├── data/
