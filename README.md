@@ -29,7 +29,7 @@ El dataset contiene **3,900 registros y 19 variables** relacionadas con caracter
 
 El archivo original `shopping_trends.csv` no se incluye en este repositorio. Para ejecutar el proyecto, debe descargarse desde Kaggle y colocarse en:
 
-```text
+text
 data/shopping_trends.csv
 
 ---
