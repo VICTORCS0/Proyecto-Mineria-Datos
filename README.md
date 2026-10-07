@@ -92,7 +92,7 @@ pip install -r requirements.txt
 
 ## Estructura del proyecto
 
-text
+~~~text
 Proyecto-Mineria-Datos/
 │
 ├── data/
@@ -110,7 +110,7 @@ Proyecto-Mineria-Datos/
 │
 ├── requirements.txt
 └── README.md
-
+~~~
 
 `shopping_trends.csv` es el dataset original y se mantiene fuera del repositorio.
 
