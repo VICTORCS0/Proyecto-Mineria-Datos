@@ -111,6 +111,7 @@ Proyecto-Mineria-Datos/
 ├── requirements.txt
 └── README.md
 
+
 `shopping_trends.csv` es el dataset original y se mantiene fuera del repositorio.
 
 ---
@@ -137,9 +138,9 @@ También participé directamente en distintas etapas del desarrollo, incluyendo:
 
 Para consultar el desarrollo completo del proyecto:
 
-- **Documento:** `documentacion/Documento_ProyectoFinal_Mineria.pdf`
-- **Presentación:** `presentacion/Presentacion_Proyecto_Final_Mineria_Datos.pptx`
-- **Código:** `notebook/Proyecto_Final.ipynb`
+- **Documento:** [Documento_ProyectoFinal_Mineria.pdf](documentacion/Documento_ProyectoFinal_Mineria.pdf)
+- **Presentación:** [Presentacion_Proyecto_Final_Mineria_Datos.pptx](presentacion/Presentacion_Proyecto_Final_Mineria_Datos.pptx)
+- **Código:** [Proyecto_Final.ipynb](notebook/Proyecto_Final.ipynb)
 
 ---
 
